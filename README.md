@@ -4,7 +4,7 @@
 </div>
 
 <h1 align="center">
-    Playground Kruger
+    To Do List
 </h1>
 
 <p align="center">
@@ -27,7 +27,7 @@
 <h4 align="center">
 	🚧 Status: Building 🚀  🚧
 
-  <p align="center">https://playground-kruger.vercel.app/</p>
+  <p align="center">https://to-do-list-swart-delta.vercel.app/</p>
 
 </h4>
 
@@ -37,16 +37,12 @@
 
 <h2 id="about-the-project" > ⏰📈 About The Project </h2>
 
-1. Show all we've done in KrugerStar (React).
-2. Show more about ourselves.
-3. Show contact info.
-4. Show our CSS abilities.
+1. Promote productivity.
+2. Easy way to save your daily activities and track them.
 
 ## Next steps:
 
-- [ ] Fix bugs;
-- [ ] Dark theme;
-- [ ] Full Responsive;
+- [ ] Light theme;
 
 ---
 
@@ -56,9 +52,9 @@ First, run the development server:
 
 ```bash
 # Clone Repository
-$ git clone https://github.com/joseandresgavilanes/playground-kruger.git
+$ git clone https://github.com/joseandresgavilanes/to-do-list
 # Go to server folder
-$ cd playground-kruger
+$ cd to-do-list
 # Install Dependencies
 $ npm i
 # Run Aplication with ViteJS
@@ -69,39 +65,27 @@ $ npm run dev
 
 <h2 id="layout" >🎨  Layout </h2>
 
-### Home
+### HOME
 
 ![screen home](./public/images/BuildingProcess/home.png)
 
 ---
 
-### BMI
+### CREATE
 
 ![screen home](./public/images/BuildingProcess/bmi.png)
 
 ---
 
-### Age Calculator
+### CHECK
 
 ![screen home](./public/images/BuildingProcess/AGE.png)
 
 ---
 
-### Clock
+### UPDATE
 
 ![screen home](./public/images/BuildingProcess/clock.png)
-
----
-
-### About
-
-![screen home](./public/images/BuildingProcess/about.png)
-
----
-
-### Contact
-
-![screen home](./public/images/BuildingProcess/contact.png)
 
 ---
 
@@ -112,7 +96,6 @@ The following tools were used in the construction of the project:
 - **[ReactJS](https://reactjs.org)**
 - **[Javascript](https://www.javascript.com/)**
 - **[ViteJS](https://vitejs.dev/)**
-- **[SCSS](https://sass-lang.com/)**
 
 ---
 
@@ -136,6 +119,12 @@ Contributions are what make the open source community such an amazing place to b
 <br />
 [![Linkedin Badge](https://img.shields.io/badge/-Jose-1692B4?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kelwyoliveira/)](https://www.linkedin.com/in/jose-andres-gavilanes-2954691b5/)
 [![Gmail Badge](https://img.shields.io/badge/-joseandresgavilanes2012@gmail.com-4682B4?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:joseandresgavilanes2012@gmail.com)](mailto:joseandresgavilanes2012@gmail.com)
+
+---
+
+<h2 id="license"> 🧍‍♀️🧍‍♂️ Acknowledgements </h2>
+https://www.youtube.com/watch?v=oT-feDPuJmk&t=2829s 
+(VIDA MRR)
 
 ---
 
